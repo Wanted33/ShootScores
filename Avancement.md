@@ -8,22 +8,22 @@ Afin de pouvoir déterminer les différentes zones de la cible, il faut nous fau
         
 # Diamètre des zones (en mm)
 
-10      11.5
+10 : 11.5
 
-9       27.5    
+9 : 27.5    
 
-8       43.5    
+8 : 43.5    
 
-7       59.5    
+7 : 59.5    
 
-6       75.5    
+6 : 75.5    
 
-5       91.5    
+5 : 91.5    
 
-4       107.5   
+4 : 107.5   
 
-3       123.5   
+3 : 123.5   
 
-2       139.5   
+2 : 139.5   
 
-1       155.5
+1 : 155.5
